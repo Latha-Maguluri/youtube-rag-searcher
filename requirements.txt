@@ -1,5 +1,5 @@
 yt-dlp
-openai-whisper
+openai-whisper==20231117
 ffmpeg-python
 openai
 langchain
@@ -7,6 +7,5 @@ tiktoken
 numpy
 pandas
 python-dotenv
-flask
-whisper 
+flask 
 faiss-cpu 
