@@ -1,0 +1,12 @@
+yt-dlp
+openai-whisper
+ffmpeg-python
+openai
+langchain
+tiktoken
+numpy
+pandas
+python-dotenv
+flask
+whisper 
+faiss-cpu 
